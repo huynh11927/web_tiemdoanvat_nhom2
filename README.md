@@ -20,7 +20,8 @@
 		    <tr><th rowspan="2"> Lượt tích điểm </th> <th colspan="3"> Điểm tích</th></tr>
 		    <tr><td>Lượt 1</td> <td>Lượt 2</td> <td>Lượt 3</td></tr>
 	    </table>
-	<li><strong>Mọi thắc mắc xin vui lòng liên hệ:</strong>https://www.facebook.com/xuanmai.tranngoc.739?mibextid=LQQJ4d</li>
+	<li><strong>Mọi thắc mắc xin vui lòng liên hệ:</strong></li>
+	<p><a href="https://www.facebook.com/xuanmai.tranngoc.739?mibextid=LQQJ4d"> Facebook chị chủ</a></p>
         </ul>  
     </main>  
 </body>  
