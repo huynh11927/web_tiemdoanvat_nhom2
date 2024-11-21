@@ -12,7 +12,7 @@
         <h2>Các món ăn vặt</h2>  
         <ul>  
             <li><strong>Bánh Mì Que</strong> <span>10,000 VNĐ</span></li>  
-		<p><img src="Pictures/banh mi que.png"></p>
+		<p><img src="D:/Huynh12l/banh mi que.png"></p>
             <li><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></li>  
 		<p><img src="images/khoai tay chien.png"></p>
             <li><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></li>  
