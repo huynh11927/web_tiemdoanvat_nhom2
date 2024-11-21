@@ -12,15 +12,15 @@
         <h2>Các món ăn vặt</h2>  
         <ul>  
             <li><strong>Bánh Mì Que</strong> <span>10,000 VNĐ</span></li>  
-		<p><img src=images/banh mi que.png"></p>
+		<p><img src="images/banh mi que.png"></p>
             <li><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></li>  
-		<p><img src=images/khoai tay chien.png"></p>
+		<p><img src="images/khoai tay chien.png"></p>
             <li><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></li>  
-		<p><img src=images/xuc xich nuong.png"></p>
+		<p><img src="images/xuc xich nuong.png"></p>
             <li><strong>Gà Rán Giòn Tan</strong> <span>25,000 VNĐ</span></li>  
-		<p><img src=images/ga gan gion tan.png"></p>
+		<p><img src="images/ga gan gion tan.png"></p>
             <li><strong>Trà Sữa Trân Châu</strong> <span>18,000 VNĐ</span></li>
-		<p><img src=images/tra sua tran chau.png"></p>
+		<p><img src="images/tra sua tran chau.png"></p>
 	    <table border="1">
 		    <tr><th rowspan="2"> Lượt tích điểm </th> <th colspan="3"> Điểm tích</th></tr>
 		    <tr><td>Lượt 1</td> <td>Lượt 2</td> <td>Lượt 3</td></tr>
